@@ -60,7 +60,7 @@ Accuracy: ~75.89%
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+https://github.com/neemo13/house-price-prediction
 
 2. Navigate to the project folder:
 
